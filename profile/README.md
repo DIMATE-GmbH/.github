@@ -9,7 +9,6 @@ DIMATE GmbH, based in Bochum, Germany, offers state-of-the-art software solution
 ## Key Features
 
 * **Digitalization of NDT Processes**: Transition from analog to digital inspection methods to improve accuracy and efficiency.
-* **Custom Software Solutions**: Tailored applications designed to meet the specific needs of different industries.
 * **AI Integration**: Utilize artificial intelligence to enhance error detection and data integrity.
 * **Global Reach**: Our solutions are trusted by operators, manufacturers, and service providers worldwide.
 
